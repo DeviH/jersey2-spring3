@@ -3,12 +3,14 @@ package com.github.marceloverdijk.jersey2.spring3.config;
 import javax.ws.rs.ext.ExceptionMapper;
 
 import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
 
 import com.github.marceloverdijk.jersey2.spring3.rest.GlobalExceptionMapper;
 import com.github.marceloverdijk.jersey2.spring3.rest.HelloResource;
 import com.github.marceloverdijk.jersey2.spring3.service.CommonsLang3RandomService;
 import com.github.marceloverdijk.jersey2.spring3.service.RandomService;
 
+@Configuration
 public class AppConfig {
 
     @Bean

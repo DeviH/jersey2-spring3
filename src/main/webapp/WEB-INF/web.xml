@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <web-app xmlns="http://java.sun.com/xml/ns/javaee" version="2.5">
 
-    <context-param>
-        <param-name>contextConfigLocation</param-name>
-        <param-value>classpath:applicationContext.xml</param-value>
-    </context-param>
-
-    <!-- 
+    <!-- Java Config variant - as alternative to applicationContext.xml
     <context-param>
         <param-name>contextClass</param-name>
         <param-value>org.springframework.web.context.support.AnnotationConfigWebApplicationContext</param-value>
@@ -14,9 +9,14 @@
 
     <context-param>
         <param-name>contextConfigLocation</param-name>
-        <param-value>org.idahoframework.samples.todo.config</param-value>
+        <param-value>com.github.marceloverdijk.jersey2.spring3.config.AppConfig</param-value>
     </context-param>
-     -->
+	 -->
+
+    <context-param>
+        <param-name>contextConfigLocation</param-name>
+        <param-value>classpath:applicationContext.xml</param-value>
+    </context-param>
 
     <listener>
         <listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
