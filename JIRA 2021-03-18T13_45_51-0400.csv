@@ -1,0 +1,94 @@
+Summary,Issue key,Issue id,Parent id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project description,Project url,Priority,Resolution,Assignee,Reporter,Creator,Created,Updated,Last Viewed,Resolved,Fix Version/s,Fix Version/s,Due Date,Votes,Description,Environment,Watchers,Original Estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Outward issue link (Blocks),Outward issue link (Blocks),Outward issue link (Blocks),Outward issue link (Blocks),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Custom field (Approve),Custom field (Defect Type),Custom field (DeployVersion),Custom field (Deployment),Custom field (Epic Color),Custom field (Epic Link),Custom field (Epic Name),Custom field (Epic Status),Custom field (Feature),Custom field (Multi-Checkbox-Test),Custom field (Multi-Checkbox-Test),Custom field (Multi-Checkbox-Test),Custom field (Multiline Text),Custom field (NumberField),Custom field (RadioButton),Custom field (Rank),Custom field (Scheduled end),Custom field (Scheduled start),Custom field (Select List (multiple choices)),Custom field (Select List (multiple choices)),Custom field (Severity),Custom field (Single Line Text Custom Field),Sprint,Custom field (Story Points),Custom field (Target end),Custom field (Target start),Custom field (Team),Custom field (Team),Custom field (Test Executions),Custom field (UrlField),Custom field (Workflow),Custom field (Zephyr Teststep),Comment,Comment
+Dev bug which came during testing,SCRUMSOFT-24,11015,,Bug,To Do,SCRUMSOFT,SCRUM-SOFTWARE-AGILE,software,admin,,,High,,,admin,admin,09/Feb/21 6:23 PM,09/Mar/21 10:24 PM,18/Mar/21 1:45 PM,,Version 2.0,,,0,Dev bug,,admin,,,,,,,,,,,,,SCRUM-24,SCRUM-25,SCRUMSOFT-33,SCRUMSOFT-29,SCRUMSOFT-30,,,,,,BP-4,,,,,,,,,,"0|i002sv:",,,,,Major,,,,,,,,,,,,,
+"As a developer, I can update story and task status with drag and drop (click the triangle at far left of this story to show sub-tasks)",SCRUMSOFT-10,10984,,Story,In Progress,SCRUMSOFT,SCRUM-SOFTWARE-AGILE,software,admin,,,Medium,,admin,admin,admin,29/Jan/21 8:16 AM,16/Mar/21 6:41 PM,16/Mar/21 6:41 PM,,Version 2.0,,,0,,,,,,,,,,,,,,,,,,,,,,User Acceptance,,,,,,,,,,,,,,"0|i002lz:",,,,,Critical,,Sample Sprint 4,5.0,,,,,,,,,"29/Jan/21 8:16 AM;admin;Joined Sample Sprint 2 7 days 9 hours 10 minutes ago",
+TimeZone: NewYork,SCRUMSOFT-35,11495,,Story,In Progress,SCRUMSOFT,SCRUM-SOFTWARE-AGILE,software,admin,,,Medium,,,admin,admin,15/Mar/21 10:20 AM,15/Mar/21 5:27 PM,15/Mar/21 5:27 PM,,,,,0,,,admin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i005nz:",,,,,,,,,,,,,,,,,,
+New user an register on the website,SCRUMSOFT-30,11483,,Test,To Do,SCRUMSOFT,SCRUM-SOFTWARE-AGILE,software,admin,,,Medium,,admin,admin,admin,02/Mar/21 8:32 AM,10/Mar/21 11:49 AM,10/Mar/21 11:49 AM,,,,,0,"As a first time visitor to the website, I want to be able to register on the website, so that I can browse and buy products from the website.
+",,admin,,,,,,,,,,,,,SCRUM-25,SCRUMSOFT-29,,,,,User Story,,,,,,,,,,,,,,"0|i005lb:",,,,,Major,,,,,,,,,,,,,
+"As an Agile team, I'd like to learn about Scrum >> Click the ""SCRUMSOFT-1"" link at the left of this row to see detail in the Description tab on the right",SCRUMSOFT-1,10975,,Story,To Do,SCRUMSOFT,SCRUM-SOFTWARE-AGILE,software,admin,,,Medium,,,admin,admin,05/Feb/21 5:26 PM,09/Mar/21 10:39 PM,18/Mar/21 1:45 PM,,Version 2.0,,,0,"*About Scrum*
+
+Scrum is an iterative approach to Agile software development. The methodology has been around since the 1980s but was popularised by Jeff Sutherland and Ken Schwaber. 
+
+Scrum breaks the development of a product down in to discrete iterations (termed Sprints) that each deliver functionality that could potentially be shipped to users.
+
+The Scrum Alliance offers an excellent [introduction to Scrum|http://www.scrumalliance.org/resources/47] that provides an overview of key Scrum concepts, stakeholders, processes and artefacts.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i002jz:",,,,,,,AGILE Sprint 4,2.0,,,,,,,,,,
+Aws cloud migration,SCRUMSOFT-25,11032,,Story,To Do,SCRUMSOFT,SCRUM-SOFTWARE-AGILE,software,admin,,,Medium,,admin,admin,admin,12/Feb/21 12:17 AM,09/Mar/21 10:39 PM,18/Mar/21 1:45 PM,,,,,0,,,admin,,,,,,,,,,,,,,,,,,,,,,,BP-1,,,,One,Two,,,,,"0|i002jw:",,,,,Critical,UrgentIssue,AGILE Sprint 4,,,,,,,,,,,
+GCP Integration,SCRUMSOFT-34,11491,,Epic,To Do,SCRUMSOFT,SCRUM-SOFTWARE-AGILE,software,admin,,,Medium,,,admin,admin,06/Mar/21 2:29 PM,06/Mar/21 2:29 PM,13/Mar/21 1:24 PM,,,,,0,,,admin,,,,,,,,,,,,,,,,,,,,,,ghx-label-5,,GCP Integration,To Do,,,,,,,,"0|i005n3:",,,,,,,,,,,,,,,,,,
+"As a developer, I can update details on an item using the Detail View >> Click the ""SCRUMSOFT-13"" link at the top of this card to open the detail view",SCRUMSOFT-13,10987,,Bug,In Progress,SCRUMSOFT,SCRUM-SOFTWARE-AGILE,software,admin,,,Medium,,admin,admin,admin,29/Jan/21 8:16 AM,03/Mar/21 2:03 PM,09/Mar/21 10:35 PM,,Version 2.0,,,0,"*Editing using the Detail View*
+
+Many of the fields in the detail view can be inline edited by simply clicking on them. 
+
+For other fields you can open Quick Edit, select ""Edit"" from the cog drop-down.",,,,,,,,,,,,,,,SCRUMSOFT-29,SCRUM-25,,,,,,,,,,,,,,,,,,,"0|i002mn:",,,,,,,Sample Sprint 4,,,,,,,,,,"29/Jan/21 8:16 AM;admin;Joined Sample Sprint 2 7 days 9 hours 10 minutes ago",
+Test Story 2,SCRUMSOFT-32,11485,,Story,In Progress,SCRUMSOFT,SCRUM-SOFTWARE-AGILE,software,admin,,,Medium,,,admin,admin,02/Mar/21 9:30 AM,03/Mar/21 2:02 PM,15/Mar/21 5:42 PM,,,,,0,,,admin,,,,,,,,,,,,,SCRUMSOFT-29,,,,,,,,,,,,,,,,,,,,"0|i005lr:",,,,,,,,,,,,,,,,,,
+Test Story,SCRUMSOFT-31,11484,,Story,In Progress,SCRUMSOFT,SCRUM-SOFTWARE-AGILE,software,admin,,,Medium,,,admin,admin,02/Mar/21 9:20 AM,02/Mar/21 9:37 AM,02/Mar/21 1:09 PM,,,,,0,,,admin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i005lj:",,,,,Major,,,,,,,,,,,,,
+"Instructions for deleting this sample board and project are in the description for this issue >> Click the ""SCRUMSOFT-17"" link and read the description tab of the detail view for more",SCRUMSOFT-17,10991,,Bug,In Progress,SCRUMSOFT,SCRUM-SOFTWARE-AGILE,software,admin,,,Medium,,admin,admin,admin,29/Jan/21 8:16 AM,26/Feb/21 10:31 PM,13/Mar/21 10:48 AM,,,,,0,"*To delete this Sample Project _(must be performed by a user with Administration rights)_* 
+- Open the administration interface to the projects page by using the keyboard shortcut 'g' then 'g' and typing 'Projects' in to the search dialog
+- Select the ""Delete"" link for the ""SCRUM-SOFTWARE-AGILE"" project
+
+*To delete the Sample Project workflow and workflow scheme _(must be performed by a user with Administration rights)_* 
+- Open the administration interface to the workflow schemes page by using the keyboard shortcut 'g' then 'g' and typing 'Workflow Schemes' in to the search dialog
+- Select the ""Delete"" link for the ""SCRUMSOFT: Software Simplified Workflow Scheme"" workflow scheme
+- Go to the workflows page by using the keyboard shortcut 'g' then 'g' and typing 'Workflows' in to the search dialog(_OnDemand users should select the second match for Workflows_)
+- Expand the ""Inactive"" section
+- Select the ""Delete"" link for the ""Software Simplified Workflow  for Project SCRUMSOFT"" workflow
+
+*To delete this Board _(must be performed by the owner of this Board or an Administrator)_*
+- Click the ""Tools"" cog at the top right of this board
+- Select ""Delete""",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i002nj:",,,,,,,Sample Sprint 4,,,,,,,,,,"02/Feb/21 12:52 AM;admin;Joined Sample Sprint 2 7 days 9 hours 10 minutes ago","02/Feb/21 12:52 AM;admin;To Do to In Progress 6 days 22 hours 26 minutes ago
+In Progress to Done 3 days 16 hours 34 minutes ago"
+"As a scrum master, I can see the progress of a sprint via the Burndown Chart >> Click ""Reports"" to view the Burndown Chart",SCRUMSOFT-15,10989,,Story,In Progress,SCRUMSOFT,SCRUM-SOFTWARE-AGILE,software,admin,,,Medium,,,admin,admin,29/Jan/21 8:16 AM,26/Feb/21 7:09 PM,18/Mar/21 1:45 PM,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i002n3:",,,,,,,Sample Sprint 4,4.0,,,,,,,,,"02/Feb/21 10:52 PM;admin;Joined Sample Sprint 2 7 days 9 hours 10 minutes ago","02/Feb/21 10:52 PM;admin;To Do to In Progress 5 days 4 hours 26 minutes ago
+In Progress to Done 2 days 18 hours 34 minutes ago"
+Aws cloud migration,SCRUMSOFT-28,11035,,Story,To Do,SCRUMSOFT,SCRUM-SOFTWARE-AGILE,software,admin,,,Medium,,admin,admin,admin,12/Feb/21 12:32 AM,15/Feb/21 6:22 PM,18/Mar/21 1:45 PM,,Version 2.0,,,0,,,admin,,,,,,,,,,,,,,,,,,,Functional,,,,BP-2,,,,Three,Two,,"QuickFix
+",12.0,Unique,"0|i002x3:",,,Critical,Major,Blocker,QuickFix,,,,,,,,http://cloudply01old.kaiburr.com:8089/browse/SCRUMSOFT-26,,,,
+Aws cloud migration,SCRUMSOFT-27,11034,,Story,To Do,SCRUMSOFT,SCRUM-SOFTWARE-AGILE,software,admin,,,Medium,,,admin,admin,12/Feb/21 12:24 AM,12/Feb/21 12:24 AM,18/Mar/21 1:45 PM,,,,,0,,,admin,,,,,,,,,,,,,,,,,,,,,,,,,,,One,Three,Two,"Right
+Left
+yes
+No",,,"0|i002wv:",,,,,Blocker,UrgentIssue,,,,,,,,http://cloudply01old.kaiburr.com:8089/browse/SCRUMSOFT-26,,,,
+MultiLineText ,SCRUMSOFT-26,11033,,Story,To Do,SCRUMSOFT,SCRUM-SOFTWARE-AGILE,software,admin,,,Medium,,admin,admin,admin,12/Feb/21 12:21 AM,12/Feb/21 12:21 AM,18/Mar/21 1:45 PM,,,,,0,,,admin,,,,,,,,,,,,,,,,,,,,,,,BP-1,,,,One,Three,Two,"Step 2: Add dateFilter and project filter for Jira. 
+Do the Model change: 
+ DateLimitedJobPayload and copy paste the below:
+Follow the Right order.",,,"0|i002wn:",,,,,Minor,QuickFix,,,,,,,,,,,,
+"As a user, I can find important items on the board by using the customisable ""Quick Filters"" above >> Try clicking the ""Only My Issues"" Quick Filter above",SCRUMSOFT-14,10988,,Story,In Progress,SCRUMSOFT,SCRUM-SOFTWARE-AGILE,software,admin,,,Medium,,admin,admin,admin,04/Feb/21 1:16 PM,05/Feb/21 5:27 PM,18/Mar/21 1:45 PM,,,,,0,"*Creating Quick Filters*
+
+You can add your own Quick Filters in the board configuration (select *Board > Configure*)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i002mv:",,,,,,,Sample Sprint 4,3.0,,,,,,,,,"04/Feb/21 1:16 PM;admin;Joined Sample Sprint 2 1 days 4 hours 10 minutes ago",
+"Update task status by dragging and dropping from column to column >> Try dragging this task to ""Done""",SCRUMSOFT-11,10985,10984,Sub-task,To Do,SCRUMSOFT,SCRUM-SOFTWARE-AGILE,software,admin,,,Medium,,admin,admin,admin,01/Feb/21 8:18 PM,05/Feb/21 5:27 PM,18/Mar/21 1:45 PM,,Version 2.0,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i002m7:",,,,,,,Sample Sprint 4,,,,,,,,,,"01/Feb/21 8:18 PM;admin;To Do to In Progress 3 days 21 hours 8 minutes ago",
+"As a developer, I'd like to update story status during the sprint >> Click the Active sprints link at the top right of the screen to go to the Active sprints where the current Sprint's items can be updated",SCRUMSOFT-9,10983,,Story,To Do,SCRUMSOFT,SCRUM-SOFTWARE-AGILE,software,admin,,,Medium,,,admin,admin,05/Feb/21 5:26 PM,05/Feb/21 5:26 PM,18/Mar/21 1:45 PM,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i002lr:",,,,,,,,3.0,,,,,,,,,,
+"As a product owner, I'd like to include bugs, tasks and other issue types in my backlog >> Bugs like this one will also appear in your backlog but they are not normally estimated",SCRUMSOFT-8,10982,,Bug,To Do,SCRUMSOFT,SCRUM-SOFTWARE-AGILE,software,admin,,,Medium,,,admin,admin,05/Feb/21 5:26 PM,05/Feb/21 5:26 PM,18/Mar/21 1:45 PM,,Version 2.0,,,0,"*Estimation of Bugs*
+
+Scrum teams do not normally apply story point estimates to bugs because bugs are considered to be part of the ongoing work that the team must deal with (i.e the overhead). If you view the story points completed in a sprint as a measure of progress, then bugs also have no value because they do not deliver anything additional to the customer. 
+
+However, you can apply estimates to bugs if you wish by configuring the ""Story Points"" field to apply to other Issue Types (by default it only applies to Stories and Epics). Some more information on this is in the [documentation|https://confluence.atlassian.com/display/GH/Story+Point].",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i002lj:",,,,,,,,,,,,,,,,,,
+This is a sample task. Tasks are used to break down the steps to implement a user story,SCRUMSOFT-7,10981,10980,Sub-task,To Do,SCRUMSOFT,SCRUM-SOFTWARE-AGILE,software,admin,,,Medium,,admin,admin,admin,05/Feb/21 5:26 PM,05/Feb/21 5:26 PM,18/Mar/21 1:45 PM,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i002lb:",,,,,,,,,,,,,,,,,"05/Feb/21 5:26 PM;admin;Hello",
+"As a scrum master, I'd like to break stories down into tasks we can track during the sprint >> Try creating a task by clicking the Sub-Tasks tab in the Detail View on the right",SCRUMSOFT-6,10980,,Story,To Do,SCRUMSOFT,SCRUM-SOFTWARE-AGILE,software,admin,,,Medium,,,admin,admin,05/Feb/21 5:26 PM,05/Feb/21 5:26 PM,18/Mar/21 1:45 PM,,,,,0,"*Task Breakdown*
+
+Many teams choose to break down user stories into a set of tasks needed to implement the story. They then update the status of these tasks during a sprint to track progress. The completion of the last task signals the end of the story. 
+
+You can add sub-tasks to a story on the sub-task tab (folder icon) above.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i002l3:",,,,,,,,1.0,,,,,,,,,,
+"As a team, I'd like to commit to a set of stories to be completed in a sprint (or iteration) >> Click ""Create Sprint"" then drag the footer down to select issues for a sprint (you can't start a sprint at the moment because one is already active)",SCRUMSOFT-5,10979,,Story,To Do,SCRUMSOFT,SCRUM-SOFTWARE-AGILE,software,admin,,,Medium,,,admin,admin,05/Feb/21 5:26 PM,05/Feb/21 5:26 PM,18/Mar/21 1:45 PM,,,,,0,"*Starting a Sprint*
+
+During the Planning Meeting the team will examine the stories at the top of the backlog and determine which they can commit to completing during the coming sprint. Based on this information the Product Owner might break down stories into smaller stories, adjust story priorities or otherwise work with the team to define the ideal sprint outcome. When the sprint is started the stories are moved into the sprint backlog.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i002kv:",,,,,,,,1.0,,,,,,,,,,
+"As a team, I'd like to estimate the effort of a story in Story Points so we can understand the work remaining >> Try setting the Story Points for this story in the ""Estimate"" field",SCRUMSOFT-4,10978,,Story,To Do,SCRUMSOFT,SCRUM-SOFTWARE-AGILE,software,admin,,,Medium,,,admin,admin,05/Feb/21 5:26 PM,05/Feb/21 5:26 PM,18/Mar/21 1:45 PM,,Version 3.0,,,0,"This story is estimated at 5 Story Points (as shown in the ""Estimate"" field at the top right of the Detail View). 
+
+Try updating the Story Point estimate to 4 by clicking on the ""Estimate"" then typing.
+
+*Estimating using Story Points*
+
+Because the traditional process of estimating tasks in weeks or days is often wildly inaccurate, many Scrum teams estimate in Story Points instead. Story Points exist merely as a way to estimate a task's difficulty compared to some other task (for example, a 10-point story would probably take double the effort of a 5-point story). As teams mature with Scrum they tend to achieve a consistent number of Story Points from Sprint to Sprint -- this is termed the team's _velocity_. This allows the Product Owner to use the velocity to predict how many Sprints it will take to deliver parts of the backlog. 
+
+Many teams use Planning Poker to achieve consensus on Story Point estimates.
+
+*Using Other Estimation Units*
+
+You can configure JIRA Software to use time-based estimates if you wish. In the configuration for the board, on the ""Estimation"" tab, select ""Original Time Estimate"" as your Estimation Statistic. If you also wish to track the time used during the Sprint, select ""Remaining Estimate and Time Spent"" to enable Time Tracking in JIRA Software.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i002kn:",,,,,,,,5.0,,,,,,,,,,
+"As a product owner, I'd like to rank stories in the backlog so I can communicate the proposed implementation order >> Try dragging this story up above the previous story",SCRUMSOFT-3,10977,,Story,To Do,SCRUMSOFT,SCRUM-SOFTWARE-AGILE,software,admin,,,Medium,,,admin,admin,05/Feb/21 5:26 PM,05/Feb/21 5:26 PM,16/Mar/21 6:50 PM,,Version 3.0,,,0,"*About the Product Backlog*
+
+The backlog is the source of truth for the order of work to be completed. It is expected that the Product Owner will work with the team to make sure that the backlog represents the current approach to delivering the product. JIRA Software makes it easy to prioritise (rank) Stories by dragging them up and down the backlog.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i002kf:",,,,,,,,5.0,,,,,,,,,,
+"As a product owner, I'd like to express work in terms of actual user problems, aka User Stories, and place them in the backlog >> Try creating a new story with the ""+ Create Issue"" button (top right of screen)",SCRUMSOFT-2,10976,,Story,To Do,SCRUMSOFT,SCRUM-SOFTWARE-AGILE,software,admin,,,Medium,,,admin,admin,05/Feb/21 5:26 PM,05/Feb/21 5:26 PM,18/Mar/21 1:45 PM,,Version 2.0,,,0,"When you click ""+ Create Issue"" you will be asked for the correct project (select ""SCRUM-SOFTWARE-AGILE"") and Issue Type (select ""Story"").
+
+*About User Stories*
+
+The Scrum methodology drops traditional software requirement statements in favour of real world problems expressed as User Stories. Stories describe the task a particular user is trying to achieve and its value. They are typically of the form ""As a (role) I want (something) so that (benefit)"". This approach focuses the team on the core user need rather than on implementation details. 
+
+Stories are ""placeholders for a conversation"" -- they do not need to be especially detailed since it is expected that the team will work together to resolve ambiguity as the story is developed. 
+
+Stories to be implemented in the future are stored in the Product Backlog. The backlog is ranked by the Product Owner so that the next items to be completed are at the top.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i002k7:",,,,,,,,2.0,,,,,,,,,,
+First time visitor in the website should be able to do the payment as a guest user.,SCRUMSOFT-29,11482,,Test,In Progress,SCRUMSOFT,SCRUM-SOFTWARE-AGILE,software,admin,,,Low,,admin,admin,admin,02/Mar/21 8:29 AM,10/Mar/21 11:49 AM,13/Mar/21 10:44 PM,,Version 2.0,Version 3.0,,0,"As a first time visitor to the e-commerce website, I want to be able to buy a listed product, So that I can use the product I buy.",,admin,,,,,,,,,SAM2-8,SCRUM-26,SCRUM-9,SCRUMSOFT-34,,,,,,,User Story,,,,,,,,,,,,,,"0|i005l3:",,,,,Minor,,,,,,,,,,,,"10/Mar/21 8:46 AM;admin;Need to include more tasks here",
